@@ -43,7 +43,7 @@ Each row includes the following fields:
 powershell
 go run main.go housesInput.csv housesOutput.jl
 
-### AI Assistance Disclosure
+## AI Assistance Disclosure
 AI tools (ChatGPT / GPT-5) were used as a learning and writing assistant throughout this project. Specifically, AI assistance included: Code Explanation, Guided Development, Debugging Help, and Documentation Support
 
 All final code implementation, debugging validation, and testing were performed manually. 
