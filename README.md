@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository is a clone of my orginial CSV to JSON project. AWS was used for this demonstration
+This repository is a clone of my orginial CSV to JSON project. Google Cloud was used for this demonstration.
 
 This command-line Go application converts comma-delimited text files (CSV) into JSON Lines (`.jl`) format. Each line of the output file represents a valid JSON object that corresponds to one record in the input dataset. This enables analysts and engineers to easily transform raw CSV data—such as California housing prices—into JSON Lines files ready for ingestion into analytics environments or NoSQL databases.
 
